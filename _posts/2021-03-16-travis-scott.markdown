@@ -36,19 +36,19 @@ categories: jekyll update
 
 
 {% highlight ruby %}
-#### 1.Meadow Creek
-#### 2.Bad Mood / Shit On You
-#### 3.Upper Echelon (feat. T.I. & 2 Chainz)
-#### 4.Chaz Interlude (feat. Toro Y Moi)
-#### 5.Uptown (feat. A$AP Ferg)
-#### 6.Hell Of A Night
-#### 7.Blocka La Flame[6]
-#### 8.Naked
-#### 9.Dance On The Moon (feat. Theophilus London & Paul Wall)
-#### 10.MIA
-#### 11.Drive (feat. James Fauntleroy)
-#### 12.Quintana (feat. Wale)
-#### 13.Bandz (feat. Meek Mill)
+#### [1.Meadow Creek]
+#### [2.Bad Mood / Shit On You]
+#### [3.Upper Echelon (feat. T.I. & 2 Chainz)]
+#### [4.Chaz Interlude (feat. Toro Y Moi)]
+#### [5.Uptown (feat. A$AP Ferg)]
+#### [6.Hell Of A Night]
+#### [7.Blocka La Flame[6]]
+#### [8.Naked]
+#### [9.Dance On The Moon (feat. Theophilus London & Paul Wall)]
+#### [10.MIA]
+#### [11.Drive (feat. James Fauntleroy)]
+#### [12.Quintana (feat. Wale)]
+#### [13.Bandz (feat. Meek Mill)]
 {% endinghighlight %}
 
 
