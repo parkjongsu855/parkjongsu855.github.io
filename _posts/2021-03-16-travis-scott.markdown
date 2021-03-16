@@ -48,8 +48,25 @@ categories: jekyll update
 #### [13.Bandz (feat. Meek Mill)]
 
 
+## [Days before rodeo (2014)][days-before-rodeo]
 
-###### 만약 더 자세히 알고 싶다면 [Travis scott][travis-scott]을 눌러 참고해보자.
+
+#### [1.Days Before Rodeo: The Prayer]
+#### [2.Mamacita (feat. Rich Homie Quan & Young Thug)]
+#### [3.Quintana, Pt. 2]
+#### [4.Drugs You Should Try It]
+#### [5.Don't Play (feat. The 1975 & Big Sean)]
+#### [6.Skyfall (feat. Young Thug)]
+#### [7.Zombies]
+#### [8.Sloppy Toppy (feat. Migos & Peewee Longway)]
+#### [9.Basement Freestyle]
+#### [10.Backyard]
+#### [11.Grey]
+#### [12.BACC** (Bonus)]
+
+
+
+##### 만약 더 자세히 알고 싶다면 [Travis scott][travis-scott]을 눌러 참고해보자.
 
 
 
@@ -59,3 +76,4 @@ categories: jekyll update
 [drake]: https://namu.wiki/w/%EB%93%9C%EB%A0%88%EC%9D%B4%ED%81%AC
 [owl-paraoh]: https://en.wikipedia.org/wiki/Owl_Pharaoh
 [travis-scott]: https://namu.wiki/w/Travis%20Scott?from=%ED%8A%B8%EB%A0%88%EB%B9%84%EC%8A%A4%20%EC%8A%A4%EC%BA%87
+[days-before-rodeo]: https://en.wikipedia.org/wiki/Days_Before_Rodeo
