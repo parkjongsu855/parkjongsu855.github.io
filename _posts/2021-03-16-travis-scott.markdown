@@ -35,24 +35,23 @@ categories: jekyll update
 ## [Owl Paraoh (2013)][owl-paraoh]
 
 
-{% highlight ruby %}
 #### [1.Meadow Creek]
 #### [2.Bad Mood / Shit On You]
 #### [3.Upper Echelon (feat. T.I. & 2 Chainz)]
 #### [4.Chaz Interlude (feat. Toro Y Moi)]
 #### [5.Uptown (feat. A$AP Ferg)]
 #### [6.Hell Of A Night]
-#### [7.Blocka La Flame[6]]
+#### [7.Blocka La Flame]
 #### [8.Naked]
 #### [9.Dance On The Moon (feat. Theophilus London & Paul Wall)]
 #### [10.MIA]
 #### [11.Drive (feat. James Fauntleroy)]
 #### [12.Quintana (feat. Wale)]
 #### [13.Bandz (feat. Meek Mill)]
-{% endinghighlight %}
 
 
-##### 만약 더 자세히 알고 싶다면 [Travis scott][travis-scott]을 눌러 참고해보자.
+
+###### 만약 더 자세히 알고 싶다면 [Travis scott][travis-scott]을 눌러 참고해보자.
 
 
 
