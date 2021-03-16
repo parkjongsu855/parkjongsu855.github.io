@@ -4,8 +4,6 @@ title:  "Travis scott"
 date:   2021-03-16 23:46:23 +0900
 categories: jekyll update
 ---
-트레비스 스캇
-=========
 
 1.개요
 -------
