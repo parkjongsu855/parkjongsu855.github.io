@@ -1,13 +1,10 @@
 ---
 layout: post
-title:  "지환이형 작업실로 언제와?"
+title:  "Travis scott"
 date:   2021-03-16 23:46:23 +0900
 categories: jekyll update
 ---
-이름 : 김지환
-
-특이 사항 : 작업실 안 옴
  
- 그에 관해서는 많은 [이야기][이-야기]들이 존재한다.
+ There's a lot of [stories][이-야기] about him.
 
-[이-야기]: https://namu.wiki/w/%EA%B9%80%EC%A7%80%ED%99%98(1993)
+[이-야기]: https://namu.wiki/w/Travis%20Scott?from=%ED%8A%B8%EB%9E%98%EB%B9%84%EC%8A%A4%20%EC%8A%A4%EC%BA%87
