@@ -1,7 +1,7 @@
 #-------------------------------
 # General Site Settings
 title: INU TEAM F
-logo: logo.svg # You can add own logo.
+logo: inu-logo.jpg # You can add own logo.
 description: Incheon National University homeworkplace
 
 
@@ -9,7 +9,7 @@ description: Incheon National University homeworkplace
 # Author Settings
 author:
   name: Team F
-  image: 01.jpg
+  image: iii.jpg
   say-hello: We're <strong>TEAM F</strong>
   bio: 
 
